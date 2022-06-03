@@ -1,2 +1,6 @@
 # Public_Opinion
 En este repositorio se encuentra los códigos utilizados para la realización del trabajo de grado para el pregrado de Economía del semestre 2022-1 (Universidad EAFIT). 
+
+
+## Resumen del trabajo (Abstract) 
+El comportamiento de los seres humanos esta intercedido por una serie de variables. Una de ella es la cultura, donde en el caso colombiano una gran parte esta ligada al fútbol y todas la actividades que se desligan de este deporte. Es por esto, que se planteo indagar cómo eventos deportivos de interés público pueden alterar la opinión de los individuos en términos de economía y gobierno. Para esto, se estimo el impacto provocado por la eliminación del equipo nacional de fútbol de la Copa Mundial Rusia 2018. Los resultados principales presentan una aumento en la desconfianza mediada por el índice de gobierno entre 8,6 puntos porcentuales y 10,2 puntos porcentuales a raíz del partido de fútbol en un análisis de diferencias en diferencias. Por otro lado, se presentan indicios de un cambio en la satisfacción del funcionamiento de la economía tras un análisis de estudio de eventos. Se concluye con la importancia que pueden obtener estas variables dentro de las decisiones de política.
