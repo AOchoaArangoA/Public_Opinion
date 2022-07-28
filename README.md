@@ -1,4 +1,4 @@
-# Public_Opinion
+# How can sports events alter public opinion on politics? Evidence from Colombia
 En este repositorio se encuentra los códigos utilizados para la realización del trabajo de grado para el pregrado de Economía del semestre 2022-1 (Universidad EAFIT). Working Paper
 
 
