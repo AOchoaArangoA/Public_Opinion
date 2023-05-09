@@ -9,7 +9,7 @@ El comportamiento de los seres humanos esta intercedido por una serie de variabl
 Human behavior is the result of a wide array of variables. One of them is culture. In the case of Colombia, soccer constitutes a major cultural element, together with all the activities derived from it. Therefore, we have sought to explore how high-profile sports events can alter individual economic and political views. To do that, we have estimated the impact of the elimination of the national soccer team from the Russia 2018 World Cup. Our main findings suggest an 8.6 to 10.2 percentage-point decrease in confidence as measured by the governance index from the soccer match, based on a difference-in-differences analysis. On the other hand, an event study points to signs of a change in satisfaction regarding economic performance. We conclude that these variables do have a significant weight on public opinion regarding policy decision-making.
 
 ### Estructura del Repositorio. 
-* Archivo Preparacion_Datos_Grado.py: En este archivo se encuentra todo el procesamiento realizado en los datos. Se organizaron algunas variables buscando la estructura deseada. 
+* Archivo Preparacion_Datos_Grado.py: En este archivo se encuentra todo el procesamiento realizado en los datos. Se organizaron algunas variables buscando la estructura deseada. De este archivo, se obtienen las bases de datos preprocesadas que sirven para la estimacion de los modelos. 
 * Archivo Coefplot.R: Código donde se realizan las gráficas de los coeficientes
 * Archivo Estimaciones.R: Código donde se realiza la estimación del DIFF-DIFF. 
 * Archivo data_baro.csv: Base de datos del Latin Barometro para realizar las estimaciones. Pero, si se desea, se puede obtener la información directamente de la página. 
